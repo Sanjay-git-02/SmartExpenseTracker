@@ -120,6 +120,10 @@ Smart-Expense-Tracker/
 
 ---
 
+## 🌐 Live Demo
+
+https://smartexpensetracker-crud.netlify.app
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
